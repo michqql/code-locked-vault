@@ -1,0 +1,4 @@
+name: SignCode
+version: '${project.version}'
+main: com.github.michqql.signcode.SignCodePlugin
+api-version: 1.16
